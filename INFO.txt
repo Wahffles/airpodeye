@@ -1,0 +1,27 @@
+airpodeye test values
+---------------------------------
+
+acp room: 
+99 111 168 255 92 183
+
+poe room: 
+99 110 137 255 48 168
+
+@home in bedroom:
+107 141 87 189 6 255
+
+---------------------------------
+
+ideas on how to improve program:
+
+add contours
+- cv2.rectangle
+- cv2.boundingRect
+
+convert slider interface to tkinter-
+- smoother sliders
+- save and name button for naming different profiles
+- load different profiles 
+- make json saves for different profiles
+
+---------------------------------
