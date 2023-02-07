@@ -21,7 +21,7 @@ max_value_H = 360//2
 notacopy.load_constants()
 
 
-# ur mom dot com
+# no u fat
 
 minH = int(notacopy.HSV_BOUNDS.MAIN_BOUND_L[0])
 minS = int(notacopy.HSV_BOUNDS.MAIN_BOUND_L[1])
